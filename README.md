@@ -1,5 +1,5 @@
 The codes contained in this repository can evaluate the momentum-dependent
-superconducting (SC) gap for the Kagome model as described in this notes:
+superconducting (SC) gap for the Kagome model as presented in the arxiv preprint [arXiv 2208.13521](https://arxiv.org/abs/2208.13521) and as described in this notes:
 https://drive.google.com/file/d/1Yo49f6vaBZoAiL0a5J1kWhHoxUHX4__i/view?usp=sharing
 
 Individual functions are written in 3 different programming languages:
